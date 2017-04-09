@@ -20,7 +20,8 @@
         "yiisoft/yii2": "*",
         "yiisoft/yii2-bootstrap": "*",
         "bower-asset/bootstrap-material-design": "*",
-        "bower-asset/materialize": "*"
+        "bower-asset/materialize": "*",
+        "bower-asset/MDBootstrap": "*"
     },
     "autoload": {
         "psr-4": {
