@@ -93,50 +93,10 @@
   white-space: nowrap;
 }
 .mini-action-button--show {
-  position: fixed;
   text-align: center;
 }
 .mini-action-button--hide {
   display: none;
-  opacity: 0;
 }
 
-.mini-action-button--show:nth-child(1) {
-  bottom: 100px;
-}
 
-.mini-action-button--show:nth-child(2) {
-  bottom: 180px;
-}
-
-.mini-action-button--show:nth-child(3) {
-  bottom: 260px;
-}
-
-.mini-action-button--show:nth-child(4) {
-  bottom: 340px;
-}
-
-.mini-action-button--show:nth-child(5) {
-  bottom: 420px;
-}
-
-.mini-action-button--show:nth-child(6) {
-  bottom: 500px;
-}
-
-.mini-action-button--show:nth-child(7) {
-  bottom: 580px;
-}
-
-.mini-action-button--show:nth-child(8) {
-  bottom: 660px;
-}
-
-.mini-action-button--show:nth-child(9) {
-  bottom: 740px;
-}
-
-.mini-action-button--show:nth-child(10) {
-  bottom: 820px;
-}
