@@ -11,6 +11,7 @@ class FloatingActionButtonsAsset extends AssetBundle
 	];
         public $css = [
             'css/fab.css',
+            'https://fonts.googleapis.com/icon?family=Material+Icons',
         ];
         public $depends = [
             'yii\web\JqueryAsset',
