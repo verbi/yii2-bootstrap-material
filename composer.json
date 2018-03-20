@@ -5,7 +5,7 @@
         "yii2", "bootstrap", "material"
     ],
     "type": "yii2-extension",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "support": {
         "issues": "https://github.com/verbi/yii2-bootstrap-material/issues",
         "source": "https://github.com/verbi/yii2-bootstrap-material"
